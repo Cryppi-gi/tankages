@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Arnold",
+    "age": 52,
+    "address": {
+        "street": "Christopher Ways",
+        "city": "Jasonside",
+        "state": "Wisconsin",
+        "zip": "75222"
+    },
+    "contact": {
+        "phone": "7246471053",
+        "servicePhone": "800876800"
+    },
+    "birthday": "1973-14-01",
+    "ip": "42.248.213.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Among whether fill image although. So size hear exist.\nProperty end back picture hear success from within. Method allow simply catch according.",
+        "bio": "Once board exactly material simply main local. Parent door might might clearly when. Owner nation international stand him step."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
