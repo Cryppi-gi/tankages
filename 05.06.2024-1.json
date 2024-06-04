@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mosley",
+    "age": 112,
+    "address": {
+        "street": "Williams Meadow",
+        "city": "North Susan",
+        "state": "Colorado",
+        "zip": "09356"
+    },
+    "contact": {
+        "phone": "(389)940-9552x59828",
+        "servicePhone": "800225845"
+    },
+    "birthday": "1913-11-09",
+    "ip": "171.75.136.182",
+    "foo": "bar",
+    "profile": {
+        "about": "History must may customer. Nothing century before offer matter order.\nDinner number hundred put office bank likely. Later nor pull official.",
+        "bio": "Money despite six door nature pretty. Agent cup actually.\nStay about hit ten best. Thought leader all respond blue size. Adult perform exactly manage professional draw."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
