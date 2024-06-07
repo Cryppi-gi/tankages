@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Rodriguez",
+    "age": 31,
+    "address": {
+        "street": "Joshua Mission",
+        "city": "Lake Sara",
+        "state": "Wyoming",
+        "zip": "61812"
+    },
+    "contact": {
+        "phone": "358-994-5604x498",
+        "servicePhone": "800900552"
+    },
+    "birthday": "1994-23-04",
+    "ip": "211.102.10.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Off something west. Kitchen parent guy degree.\nWhere subject southern option discussion education other. Glass describe where present determine popular. Picture cell stuff fill walk quality that.",
+        "bio": "Admit else tell international international oil. Up window military street.\nDecision democratic relate garden according house son. Great rule really theory war above improve."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
