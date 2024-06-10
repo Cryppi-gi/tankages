@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Lawrence",
+    "age": 28,
+    "address": {
+        "street": "Wayne Trafficway",
+        "city": "Yolandaland",
+        "state": "Ohio",
+        "zip": "34983"
+    },
+    "contact": {
+        "phone": "001-220-372-9066x33005",
+        "servicePhone": "800229895"
+    },
+    "birthday": "1997-10-05",
+    "ip": "45.215.126.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Do sometimes write play before because loss. Network ahead how purpose.",
+        "bio": "Between what garden short hope. We instead enough professor behavior. Probably adult west run. Anything information return there wide."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
