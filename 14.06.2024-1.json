@@ -1,0 +1,25 @@
+{
+    "name": "Kevin White",
+    "age": 41,
+    "address": {
+        "street": "Clark Groves",
+        "city": "Lake Lauren",
+        "state": "Indiana",
+        "zip": "02284"
+    },
+    "contact": {
+        "phone": "001-407-724-1874x7117",
+        "servicePhone": "800622998"
+    },
+    "birthday": "1984-17-01",
+    "ip": "101.44.98.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting minute among option. Unit begin although particular allow throw.\nInstitution reveal what let play test into. Beat try change maybe growth spend on. Wonder budget change data.",
+        "bio": "Which spend present support.\nBy something though mother once seat. Through unit look onto. Help activity task explain his accept.\nCar positive its color day between no upon. Require part determine."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
