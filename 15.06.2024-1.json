@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Ramsey",
+    "age": 102,
+    "address": {
+        "street": "Diaz Causeway",
+        "city": "Nelsonfort",
+        "state": "Indiana",
+        "zip": "02172"
+    },
+    "contact": {
+        "phone": "001-633-942-5479",
+        "servicePhone": "800395149"
+    },
+    "birthday": "1923-23-12",
+    "ip": "66.43.255.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Think industry center scene current. Certainly late project join national. Interest discover field here TV force table fast.\nMedical challenge heavy collection. Success care we.",
+        "bio": "Unit strong if doctor particularly evidence within section. Production someone much southern just or glass.\nFight father past. At find toward college."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
