@@ -1,0 +1,25 @@
+{
+    "name": "Terri Douglas",
+    "age": 70,
+    "address": {
+        "street": "Wilson Parkway",
+        "city": "Hoshire",
+        "state": "Pennsylvania",
+        "zip": "57348"
+    },
+    "contact": {
+        "phone": "(624)703-9587x66521",
+        "servicePhone": "800223638"
+    },
+    "birthday": "1955-04-06",
+    "ip": "98.230.249.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Help class you military fill how subject make. Toward increase keep society trip. Discussion plant great choice religious. Success bill ahead a court.",
+        "bio": "Not director difficult view show. Trial pass anyone size perform.\nWhite prepare pattern seat bring. System morning school magazine around light."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
