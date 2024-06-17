@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Evans DDS",
+    "age": 1,
+    "address": {
+        "street": "Timothy Road",
+        "city": "Lake Monique",
+        "state": "Massachusetts",
+        "zip": "31896"
+    },
+    "contact": {
+        "phone": "(890)315-8655",
+        "servicePhone": "800852717"
+    },
+    "birthday": "2024-10-02",
+    "ip": "31.91.206.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Make trouble particular stand have development. Pay treat camera truth eight.",
+        "bio": "Book scene decade fund generation born that."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
