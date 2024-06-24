@@ -1,0 +1,25 @@
+{
+    "name": "Scott Fernandez",
+    "age": 50,
+    "address": {
+        "street": "Wells Turnpike",
+        "city": "Lake Amandaland",
+        "state": "West Virginia",
+        "zip": "62685"
+    },
+    "contact": {
+        "phone": "+1-998-953-0247",
+        "servicePhone": "800935969"
+    },
+    "birthday": "1975-10-11",
+    "ip": "75.139.135.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Above read shake none mean bit to. Activity air smile institution.\nOut information develop whom language pull account. Mrs fact five old allow. Skill great economic foreign trip let power.",
+        "bio": "Rise meeting score before million institution middle. Green action someone away operation mother girl amount."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
