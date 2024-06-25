@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Moore",
+    "age": 80,
+    "address": {
+        "street": "Campbell River",
+        "city": "Bondview",
+        "state": "New Mexico",
+        "zip": "90116"
+    },
+    "contact": {
+        "phone": "870-408-5468",
+        "servicePhone": "800733781"
+    },
+    "birthday": "1945-07-03",
+    "ip": "104.7.98.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Not yes when traditional positive. Hundred number recent institution.\nEffort relate note case ever. Science about entire everybody eat. Federal whether agreement little.",
+        "bio": "Herself occur capital machine. Leader place age national difference loss. Morning present office realize business question."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
