@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Bailey",
+    "age": 8,
+    "address": {
+        "street": "Oconnor Ways",
+        "city": "West Jennifer",
+        "state": "Illinois",
+        "zip": "29665"
+    },
+    "contact": {
+        "phone": "3586324473",
+        "servicePhone": "800070109"
+    },
+    "birthday": "2017-22-12",
+    "ip": "209.84.190.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Test politics himself system. Third role rise figure fish.\nSafe trouble like system few word. Activity it work all thought.\nPrice play address. Government town candidate meeting including.",
+        "bio": "Per land bit wall collection claim without. Research dinner commercial usually born hot. Activity leave case shake community politics next.\nTrip public cell it chance. Sort wife church less."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
