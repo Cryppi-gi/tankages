@@ -1,0 +1,25 @@
+{
+    "name": "Ana Brown",
+    "age": 65,
+    "address": {
+        "street": "Anthony Valleys",
+        "city": "Port Erika",
+        "state": "West Virginia",
+        "zip": "28825"
+    },
+    "contact": {
+        "phone": "651-286-3295x9325",
+        "servicePhone": "800601861"
+    },
+    "birthday": "1960-13-01",
+    "ip": "23.127.251.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad human rather despite return. Color too often authority but. End clearly cup way.\nBody job machine pretty. Away operation view owner meet make. Garden deep skill real read.",
+        "bio": "Discuss term Mr magazine night myself. Memory you cultural. Each front summer result because store another.\nOrder child agreement public. Positive behavior future you. Price ability order none."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
