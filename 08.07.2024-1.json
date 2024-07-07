@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Porter",
+    "age": 36,
+    "address": {
+        "street": "Morales Locks",
+        "city": "Benjaminshire",
+        "state": "Maine",
+        "zip": "25470"
+    },
+    "contact": {
+        "phone": "(903)796-5541x0594",
+        "servicePhone": "800703847"
+    },
+    "birthday": "1989-09-07",
+    "ip": "54.128.55.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Color green simple operation particular pattern choice animal. Option according treat benefit same realize price. Development arm customer push join senior.",
+        "bio": "Push street agreement receive million fear. Capital already town all top during could nation."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
