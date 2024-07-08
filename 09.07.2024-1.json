@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Moyer",
+    "age": 77,
+    "address": {
+        "street": "Benjamin Rapids",
+        "city": "Reynoldsstad",
+        "state": "Michigan",
+        "zip": "77425"
+    },
+    "contact": {
+        "phone": "001-399-540-4603x0247",
+        "servicePhone": "800541262"
+    },
+    "birthday": "1948-05-06",
+    "ip": "201.244.146.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Through culture PM. Letter view difference charge.\nImprove city open beyond administration Congress. Cultural rock seven sea police hit author.",
+        "bio": "Owner those already purpose.\nEvery whatever practice fall Congress cell young. Left break catch court. Line really simple factor."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
