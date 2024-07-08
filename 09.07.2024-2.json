@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Hanson MD",
+    "age": 106,
+    "address": {
+        "street": "Smith Forks",
+        "city": "Eugeneport",
+        "state": "Tennessee",
+        "zip": "33802"
+    },
+    "contact": {
+        "phone": "238-809-4366x32028",
+        "servicePhone": "800593244"
+    },
+    "birthday": "1919-17-10",
+    "ip": "176.140.236.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy case write news treatment. Interview country hair news west firm kitchen.\nOut movie this think reach join fund his. Charge decade fire finally.",
+        "bio": "Eight blood fast prevent discuss fire film. Again style maintain because our scene.\nMoment buy hair value so myself often.\nCivil seem them late."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
