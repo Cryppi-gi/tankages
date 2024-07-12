@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Burns",
+    "age": 92,
+    "address": {
+        "street": "George Village",
+        "city": "North Kathrynshire",
+        "state": "Texas",
+        "zip": "81691"
+    },
+    "contact": {
+        "phone": "001-452-710-3374x3913",
+        "servicePhone": "800519000"
+    },
+    "birthday": "1933-26-01",
+    "ip": "144.254.216.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment wrong peace cold.\nChurch reveal deal explain.\nTeach garden local accept short story. Up study onto religious. Music guy late enough eight base if tend.",
+        "bio": "Rock crime again shoulder lead southern. Fall particular prove industry exist begin.\nMovement language method fund majority under him. Check oil group customer unit there record."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
