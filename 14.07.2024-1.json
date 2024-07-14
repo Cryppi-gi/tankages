@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Waters",
+    "age": 25,
+    "address": {
+        "street": "Kelly Shoals",
+        "city": "Anthonyberg",
+        "state": "Maryland",
+        "zip": "62474"
+    },
+    "contact": {
+        "phone": "001-919-943-3682x81295",
+        "servicePhone": "800487864"
+    },
+    "birthday": "2000-17-03",
+    "ip": "166.237.212.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Build class spend guy best shoulder old. Tough in middle. Serve itself reach north. Turn start figure human another.\nConsumer later wide course tree easy. Her attorney edge board.",
+        "bio": "Produce second sense behind quickly. Contain add allow much. Prepare see add mind social public. Cost keep able.\nHope education generation. Yeah vote current thing north travel result."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
