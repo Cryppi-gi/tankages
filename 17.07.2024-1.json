@@ -1,0 +1,25 @@
+{
+    "name": "Mikayla Hill",
+    "age": 45,
+    "address": {
+        "street": "Davis Shores",
+        "city": "Josephside",
+        "state": "Oregon",
+        "zip": "52829"
+    },
+    "contact": {
+        "phone": "+1-943-663-3932x754",
+        "servicePhone": "800852994"
+    },
+    "birthday": "1980-21-09",
+    "ip": "116.71.119.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology onto from go. See or little shoulder often organization knowledge TV. Some morning media debate her. Green use start true.",
+        "bio": "Feeling bag clear relate. Even ago include health class. Account front huge enter."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
