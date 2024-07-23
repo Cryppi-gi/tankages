@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Phillips",
+    "age": 34,
+    "address": {
+        "street": "Robert Ports",
+        "city": "North Devontown",
+        "state": "Rhode Island",
+        "zip": "48201"
+    },
+    "contact": {
+        "phone": "+1-977-870-4856x866",
+        "servicePhone": "800666474"
+    },
+    "birthday": "1991-19-07",
+    "ip": "199.232.31.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Live major suddenly size spring return head yard. Friend project nation degree. Write everything TV play in land only.\nGo step natural chance war statement crime. Send exactly choice.",
+        "bio": "Particular key bank program. Wall nor mission ground thought resource. Ask administration eat political truth believe professor."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
