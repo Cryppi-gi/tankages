@@ -1,0 +1,25 @@
+{
+    "name": "Eric Smith",
+    "age": 13,
+    "address": {
+        "street": "Jordan Walk",
+        "city": "Brookemouth",
+        "state": "Illinois",
+        "zip": "65770"
+    },
+    "contact": {
+        "phone": "001-879-529-4498x765",
+        "servicePhone": "800017324"
+    },
+    "birthday": "2012-02-09",
+    "ip": "184.31.88.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop tell not clearly learn gas step standard. Community kid still week.\nMagazine week rock national know. Or bit peace because can investment service safe. Sell less safe book sea.",
+        "bio": "Catch physical role sister. Better pretty event behavior. Ever very among heart teacher base area."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
