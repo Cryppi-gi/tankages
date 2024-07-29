@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Brown",
+    "age": 86,
+    "address": {
+        "street": "Sherry Stravenue",
+        "city": "Lake Jessica",
+        "state": "Arkansas",
+        "zip": "33967"
+    },
+    "contact": {
+        "phone": "821-961-6810x685",
+        "servicePhone": "800045985"
+    },
+    "birthday": "1939-27-03",
+    "ip": "91.232.215.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Color lead hear federal adult arm. As quickly person suggest.\nNorth under many perform go might quality. Discussion first stock apply. Direction star lose miss worry say buy so.",
+        "bio": "Interest mean fill what brother after. Ten staff whatever week loss civil. Around stage onto audience."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
