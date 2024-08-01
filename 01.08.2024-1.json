@@ -1,0 +1,25 @@
+{
+    "name": "Stuart Barnes",
+    "age": 31,
+    "address": {
+        "street": "Welch Ranch",
+        "city": "Lake Jacobton",
+        "state": "Maine",
+        "zip": "09430"
+    },
+    "contact": {
+        "phone": "(784)891-0603x4895",
+        "servicePhone": "800382238"
+    },
+    "birthday": "1994-28-08",
+    "ip": "86.175.120.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Contain attorney everything either Mrs employee record. Course yes hospital whose defense less.\nA within especially citizen Mrs yeah. Traditional structure maybe yeah guy official.",
+        "bio": "Moment plan effort someone. Professor himself night quickly here determine.\nChurch federal right officer message phone bed. Various play first data your."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
