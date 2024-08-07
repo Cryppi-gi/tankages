@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Hill",
+    "age": 59,
+    "address": {
+        "street": "Allison Trail",
+        "city": "Carterbury",
+        "state": "West Virginia",
+        "zip": "67783"
+    },
+    "contact": {
+        "phone": "(587)389-6075x919",
+        "servicePhone": "800834381"
+    },
+    "birthday": "1966-12-06",
+    "ip": "61.98.25.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve he great example lose upon matter. Order lay walk allow customer through.\nCall ahead guess about. Among player building. Significant office others just.",
+        "bio": "Really notice happen process. Like live sing new history happy visit. Choose gas however information attention particularly even order.\nEveryone look wife miss. Evening body oil bill."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
