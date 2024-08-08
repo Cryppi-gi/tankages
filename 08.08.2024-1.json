@@ -1,0 +1,25 @@
+{
+    "name": "Carla Bush",
+    "age": 11,
+    "address": {
+        "street": "Timothy Turnpike",
+        "city": "Emilystad",
+        "state": "Pennsylvania",
+        "zip": "54582"
+    },
+    "contact": {
+        "phone": "370.805.0062x51352",
+        "servicePhone": "800251060"
+    },
+    "birthday": "2014-26-07",
+    "ip": "159.124.129.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach record forget every too sport free. War politics begin purpose room nothing building.\nNature actually court radio sister close. Purpose seven manager.",
+        "bio": "Decade point receive alone cup. Strategy four common citizen increase. Month gas current plan paper.\nAir study goal. Share both explain worker."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
