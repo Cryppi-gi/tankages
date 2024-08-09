@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Conner",
+    "age": 12,
+    "address": {
+        "street": "Nancy Center",
+        "city": "Vickieberg",
+        "state": "Connecticut",
+        "zip": "87498"
+    },
+    "contact": {
+        "phone": "497.700.5331x17246",
+        "servicePhone": "800687125"
+    },
+    "birthday": "2013-08-04",
+    "ip": "144.230.31.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Show grow issue sister try special. Bit nothing food often mouth air. Eye analysis occur recent sign travel. Sign suggest fill gas something hair natural.",
+        "bio": "Amount plan model already spring discuss production. Life blood thought challenge easy involve."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
