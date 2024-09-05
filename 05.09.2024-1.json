@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Lewis",
+    "age": 13,
+    "address": {
+        "street": "Smith Park",
+        "city": "West Shannon",
+        "state": "Minnesota",
+        "zip": "20415"
+    },
+    "contact": {
+        "phone": "+1-834-376-9530x416",
+        "servicePhone": "800857123"
+    },
+    "birthday": "2012-11-09",
+    "ip": "33.55.28.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate account loss manager drive sign again. Medical majority let toward.\nCourse capital talk field win because. Behind realize hot.",
+        "bio": "See ok range side recently. Company foreign drive body must thing.\nPlan place gun share use stop program. Seek nothing foreign market recent.\nTrip stock what break. Strong behavior could well."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
