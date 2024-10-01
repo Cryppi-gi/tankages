@@ -1,0 +1,25 @@
+{
+    "name": "David Smith",
+    "age": 113,
+    "address": {
+        "street": "Robinson Plains",
+        "city": "Mathismouth",
+        "state": "North Carolina",
+        "zip": "71609"
+    },
+    "contact": {
+        "phone": "559.648.2128x330",
+        "servicePhone": "800171931"
+    },
+    "birthday": "1912-15-08",
+    "ip": "82.240.52.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve range ask. They indicate have attention great cost at. Response bit over other professor us.\nSuccess bring power who teacher.",
+        "bio": "Position set reality quite sell maybe. Try party small impact among.\nSpace he report gun start. Show moment rule leg court adult remember full. Particularly authority conference change new."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
