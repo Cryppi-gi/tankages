@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Armstrong",
+    "age": 99,
+    "address": {
+        "street": "Marc Path",
+        "city": "New Stephaniefort",
+        "state": "Georgia",
+        "zip": "02081"
+    },
+    "contact": {
+        "phone": "4269583181",
+        "servicePhone": "800719696"
+    },
+    "birthday": "1926-30-11",
+    "ip": "34.244.245.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Win reveal body she.\nMeasure push suggest professional purpose from protect. Than writer ground rule friend others continue. Commercial technology minute.",
+        "bio": "Girl energy prepare song involve condition. Place wear skill agree stop set late behavior.\nThree north police someone."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
