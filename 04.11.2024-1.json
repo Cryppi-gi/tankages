@@ -1,0 +1,25 @@
+{
+    "name": "Charlene Sparks",
+    "age": 93,
+    "address": {
+        "street": "Myers Plains",
+        "city": "Rhondashire",
+        "state": "Pennsylvania",
+        "zip": "19871"
+    },
+    "contact": {
+        "phone": "(717)711-4964x243",
+        "servicePhone": "800515401"
+    },
+    "birthday": "1932-06-06",
+    "ip": "111.48.118.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Size recently side. Evidence beautiful price challenge fund consider total. Special concern go tonight point director relate.",
+        "bio": "Mission shake game hair line door another. Stage friend organization on benefit data. Anything deal get right television country language."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
