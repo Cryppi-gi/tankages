@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Smith",
+    "age": 67,
+    "address": {
+        "street": "Bowman Centers",
+        "city": "East Wesley",
+        "state": "Missouri",
+        "zip": "40767"
+    },
+    "contact": {
+        "phone": "+1-473-611-0641x436",
+        "servicePhone": "800786059"
+    },
+    "birthday": "1958-01-06",
+    "ip": "50.127.130.57",
+    "foo": "bar",
+    "profile": {
+        "about": "I return idea big drop run. Fall share rise house.\nPlay force method speak huge one hour how. Kind say point. Behavior cover majority organization financial reveal.",
+        "bio": "Ahead focus until enjoy hospital itself behavior themselves. Within energy within capital discover behavior. Gas thousand million actually reach animal road. Put raise well gun state force."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
