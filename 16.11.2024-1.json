@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Smith",
+    "age": 88,
+    "address": {
+        "street": "Mills Mountain",
+        "city": "Gibsonton",
+        "state": "Montana",
+        "zip": "07899"
+    },
+    "contact": {
+        "phone": "874-385-4389",
+        "servicePhone": "800539492"
+    },
+    "birthday": "1937-24-03",
+    "ip": "34.222.167.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce range work. Other maintain age mouth sea. Alone show president myself me east with weight.",
+        "bio": "World themselves experience know two instead real. Road laugh front against whatever even. Tree option food song stand news hot."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
