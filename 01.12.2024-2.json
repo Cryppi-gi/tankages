@@ -1,0 +1,25 @@
+{
+    "name": "Patricia May DVM",
+    "age": 104,
+    "address": {
+        "street": "Murillo Point",
+        "city": "New Garrettport",
+        "state": "Maryland",
+        "zip": "05571"
+    },
+    "contact": {
+        "phone": "001-409-224-8635x5387",
+        "servicePhone": "800652502"
+    },
+    "birthday": "1921-13-11",
+    "ip": "136.177.52.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Within perform treatment low relate. Near military career just card history body. Participant management trade marriage.",
+        "bio": "Report mean person. Partner yourself difference food.\nCitizen short either matter. Drop physical concern tax among employee. Relate behavior difference drug I never."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
