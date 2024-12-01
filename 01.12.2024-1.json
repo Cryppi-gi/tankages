@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Woods",
+    "age": 22,
+    "address": {
+        "street": "Matthew Villages",
+        "city": "North Ryanmouth",
+        "state": "Montana",
+        "zip": "34709"
+    },
+    "contact": {
+        "phone": "+1-350-942-6587",
+        "servicePhone": "800132594"
+    },
+    "birthday": "2003-12-09",
+    "ip": "169.218.130.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside our make hundred technology. Whether instead and agent somebody protect member. Past draw decade quickly which memory.\nStreet party receive car. Help alone between southern owner budget young.",
+        "bio": "Main huge along wife population. Animal tough contain whole.\nReceive wait cup camera right social laugh. Send manage for staff make in. Animal develop the show boy."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
