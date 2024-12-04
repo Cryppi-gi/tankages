@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Rodriguez",
+    "age": 70,
+    "address": {
+        "street": "Judith Avenue",
+        "city": "Westshire",
+        "state": "West Virginia",
+        "zip": "23209"
+    },
+    "contact": {
+        "phone": "595.520.0313x779",
+        "servicePhone": "800387752"
+    },
+    "birthday": "1955-24-11",
+    "ip": "46.117.130.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Light financial sea country wide law. Arm name start enter candidate head social.\nCultural interest else stock. Time memory various candidate method discover.",
+        "bio": "Save game right. To worry finish me.\nBoard moment most such eye. Home program parent just few but step part. Walk democratic bar ability body development range."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
