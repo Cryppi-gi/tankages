@@ -1,0 +1,25 @@
+{
+    "name": "Michele Lee",
+    "age": 52,
+    "address": {
+        "street": "Williams Skyway",
+        "city": "Port Jenniferborough",
+        "state": "Massachusetts",
+        "zip": "19546"
+    },
+    "contact": {
+        "phone": "541.996.8322x3432",
+        "servicePhone": "800677703"
+    },
+    "birthday": "1973-13-06",
+    "ip": "6.34.252.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization school husband return many fear.\nOur also three method very result past join. It value leave develop what everything whom.",
+        "bio": "We call field become score else pick bit. Necessary himself nice president marriage smile."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
