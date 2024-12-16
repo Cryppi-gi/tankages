@@ -1,0 +1,25 @@
+{
+    "name": "Laura Holmes",
+    "age": 66,
+    "address": {
+        "street": "Julia Light",
+        "city": "West Steven",
+        "state": "North Dakota",
+        "zip": "83669"
+    },
+    "contact": {
+        "phone": "881.284.4203x34909",
+        "servicePhone": "800017322"
+    },
+    "birthday": "1959-13-01",
+    "ip": "18.59.98.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction tree move to message television. Hear use forget care beyond.",
+        "bio": "Century understand Congress appear song end modern. Throw herself how leader.\nCommon commercial a visit pretty capital church. East school nice send however plant."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
