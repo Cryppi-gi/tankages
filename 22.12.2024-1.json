@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Morrison",
+    "age": 14,
+    "address": {
+        "street": "Jeffrey Keys",
+        "city": "East Brandon",
+        "state": "South Dakota",
+        "zip": "88698"
+    },
+    "contact": {
+        "phone": "001-672-689-7121x39418",
+        "servicePhone": "800743326"
+    },
+    "birthday": "2011-12-04",
+    "ip": "169.17.208.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball election movement research perform say instead.",
+        "bio": "Energy radio everything rate. Would western community employee.\nDream at east include study executive. Treatment himself too serious wind reveal. Election writer set fill hundred role."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
