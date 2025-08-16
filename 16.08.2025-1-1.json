@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Clark",
+    "age": 3,
+    "address": {
+        "street": "Stevens Plains",
+        "city": "West Sue",
+        "state": "South Carolina",
+        "zip": "74674"
+    },
+    "contact": {
+        "phone": "001-459-793-6123x4436",
+        "servicePhone": "800279838"
+    },
+    "birthday": "2022-17-01",
+    "ip": "196.200.196.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern history sport could professor sometimes how college. Popular share head magazine. Least draw article project ability teacher suddenly.",
+        "bio": "Area him letter film attention. Detail away election trial few individual. Business else imagine."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
