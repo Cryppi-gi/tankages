@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Swanson",
+    "age": 75,
+    "address": {
+        "street": "Hernandez Estate",
+        "city": "Karenland",
+        "state": "South Carolina",
+        "zip": "14161"
+    },
+    "contact": {
+        "phone": "914.429.9924x6590",
+        "servicePhone": "800181467"
+    },
+    "birthday": "1950-02-07",
+    "ip": "31.245.191.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Address art open green drug factor. Key might environmental west.",
+        "bio": "Police performance teach final.\nSignificant across yourself. Western resource blue cup suggest business. Understand offer respond.\nBoth particularly court put fact with study. Including ready apply."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
