@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Jimenez",
+    "age": 31,
+    "address": {
+        "street": "Clark Groves",
+        "city": "Wisemouth",
+        "state": "Wyoming",
+        "zip": "86260"
+    },
+    "contact": {
+        "phone": "+1-252-743-0842",
+        "servicePhone": "800824027"
+    },
+    "birthday": "1994-03-11",
+    "ip": "68.13.178.156",
+    "foo": "bar",
+    "profile": {
+        "about": "World cup sign no yes situation. Husband several since institution maintain number between.",
+        "bio": "Effect especially sound cold under. Step decision soon its tax news. Current care well war. Left subject matter bill whether.\nLate operation a even instead play. Instead lot particularly."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

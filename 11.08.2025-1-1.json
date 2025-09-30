@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Gross",
+    "age": 38,
+    "address": {
+        "street": "Nathan Village",
+        "city": "Brittanybury",
+        "state": "Connecticut",
+        "zip": "18038"
+    },
+    "contact": {
+        "phone": "384-979-7495",
+        "servicePhone": "800641825"
+    },
+    "birthday": "1987-02-05",
+    "ip": "204.9.18.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently fear speak west speech. Old mention themselves knowledge your. Choice back live agreement.\nCup detail must article with experience. Happy process structure career.",
+        "bio": "Lay administration certainly person.\nReduce act upon either we administration. Movie majority spring onto.\nTell much cold. Phone benefit science behavior its change nor."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
