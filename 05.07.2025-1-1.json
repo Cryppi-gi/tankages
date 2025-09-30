@@ -1,0 +1,25 @@
+{
+    "name": "William Morrison",
+    "age": 28,
+    "address": {
+        "street": "Shelton Mount",
+        "city": "North Allison",
+        "state": "South Carolina",
+        "zip": "82102"
+    },
+    "contact": {
+        "phone": "(919)654-0810x760",
+        "servicePhone": "800097567"
+    },
+    "birthday": "1997-05-05",
+    "ip": "121.167.41.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior agent idea somebody language. Now now history north side order.\nGlass man safe pretty and tell. Central art fast perhaps realize fact require itself.",
+        "bio": "Throw research political foot tree almost. Plant light about same science yeah.\nGrow issue image term. Within soon risk around tend join than. Some live first force piece class wrong."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

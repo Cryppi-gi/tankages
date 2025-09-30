@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Brown",
+    "age": 72,
+    "address": {
+        "street": "Todd Rapid",
+        "city": "North Julie",
+        "state": "Montana",
+        "zip": "95248"
+    },
+    "contact": {
+        "phone": "583-804-4016x462",
+        "servicePhone": "800946584"
+    },
+    "birthday": "1953-04-11",
+    "ip": "97.27.166.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Community without establish word issue beautiful clearly. Each our yourself upon especially data process reality. Pass ten foot order ever.",
+        "bio": "Leader experience option per political media assume. They treatment think me along structure allow.\nWell street mean bit item financial. Difficult quickly nearly director the."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
