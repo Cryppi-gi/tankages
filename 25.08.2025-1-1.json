@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Hoffman",
+    "age": 85,
+    "address": {
+        "street": "Jonathan Rue",
+        "city": "Port Nicole",
+        "state": "Washington",
+        "zip": "44607"
+    },
+    "contact": {
+        "phone": "318.407.7247x275",
+        "servicePhone": "800269019"
+    },
+    "birthday": "1940-07-06",
+    "ip": "14.127.238.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair feel evidence board effort explain. Health human special interesting interview success hear. Find painting box today message.\nType in receive data.",
+        "bio": "Appear so law including run affect. Create their service picture.\nPolitical half usually stock body consider born sure. Remain wind sign. Economy guess civil dream."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
