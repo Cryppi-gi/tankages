@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Arellano",
+    "age": 29,
+    "address": {
+        "street": "Brown Dam",
+        "city": "Port Michael",
+        "state": "Arkansas",
+        "zip": "72161"
+    },
+    "contact": {
+        "phone": "3674482788",
+        "servicePhone": "800591894"
+    },
+    "birthday": "1996-17-12",
+    "ip": "18.138.35.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Though whole prepare now half trouble. Foot fact better check.\nCenter investment claim wall. End former president use grow guess.",
+        "bio": "Future alone realize together risk. House determine air establish your.\nEnvironment seven now him. Together scientist above final hotel. Attention tough according either who music government forward."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
