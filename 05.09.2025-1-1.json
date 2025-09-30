@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Taylor",
+    "age": 25,
+    "address": {
+        "street": "Julie Underpass",
+        "city": "Diazhaven",
+        "state": "Arizona",
+        "zip": "97844"
+    },
+    "contact": {
+        "phone": "001-312-588-8632",
+        "servicePhone": "800930167"
+    },
+    "birthday": "2000-30-12",
+    "ip": "136.24.221.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Week paper turn music. Thousand attorney test only I.\nConsumer goal carry this. Nice letter evening stop green which indicate meet.\nRace meeting conference. Practice wait break this.",
+        "bio": "Huge finally product none allow decision. Answer short network western form him contain.\nDifference history especially. Career reflect movie finish. Past onto look condition recent far."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
